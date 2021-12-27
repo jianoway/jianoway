@@ -1,4 +1,8 @@
-Just another noob.
+Traits:
+
+- [ ] <strike>brain</strike>
+- [ ] <strike>brawn</strike>
+- [X] **coffee**
 
 <!---
 jianoway/jianoway is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
